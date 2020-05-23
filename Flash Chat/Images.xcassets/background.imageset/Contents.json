@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "Nature Backgrounds Windows Flower Images Beautiful Green Cool Widescreen High Resolution Natural Images 1&#215;101 _ Wallpaper portal creative.jpg",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "Nature Backgrounds Windows Flower Images Beautiful Green Cool Widescreen High Resolution Natural Images 1&#215;101 _ Wallpaper portal creative@2x.jpg",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "Nature Backgrounds Windows Flower Images Beautiful Green Cool Widescreen High Resolution Natural Images 1&#215;101 _ Wallpaper portal creative@3x.jpg",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
