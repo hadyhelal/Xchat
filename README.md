@@ -1,9 +1,9 @@
 
 # Xchat
 
-## pref
+## intro
 
-Simple Chat application a clone of what's app 
+Simple Chat application a clone of whatsApp 
 
 
 ## What i used in Xchat
