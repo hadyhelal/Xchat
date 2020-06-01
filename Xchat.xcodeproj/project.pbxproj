@@ -25,7 +25,7 @@
 
 /* Begin PBXFileReference section */
 		0725412F243F2D0F009E8516 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
-		6321A9B61B94EBA10053D2E7 /* Flash Chat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Flash Chat.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6321A9B61B94EBA10053D2E7 /* Xchat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Xchat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6321A9BA1B94EBA10053D2E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6321A9C21B94EBA10053D2E7 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		6321A9DB1B94EBE70053D2E7 /* CustomMessageCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomMessageCell.swift; sourceTree = "<group>"; };
@@ -70,7 +70,7 @@
 		6321A9B71B94EBA10053D2E7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6321A9B61B94EBA10053D2E7 /* Flash Chat.app */,
+				6321A9B61B94EBA10053D2E7 /* Xchat.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -155,9 +155,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6321A9B51B94EBA10053D2E7 /* Flash Chat */ = {
+		6321A9B51B94EBA10053D2E7 /* Xchat */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6321A9D51B94EBA10053D2E7 /* Build configuration list for PBXNativeTarget "Flash Chat" */;
+			buildConfigurationList = 6321A9D51B94EBA10053D2E7 /* Build configuration list for PBXNativeTarget "Xchat" */;
 			buildPhases = (
 				077CBC34826A5632FEDEA84F /* [CP] Check Pods Manifest.lock */,
 				6321A9B21B94EBA10053D2E7 /* Sources */,
@@ -169,9 +169,9 @@
 			);
 			dependencies = (
 			);
-			name = "Flash Chat";
+			name = Xchat;
 			productName = "Flash Chat";
-			productReference = 6321A9B61B94EBA10053D2E7 /* Flash Chat.app */;
+			productReference = 6321A9B61B94EBA10053D2E7 /* Xchat.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -192,7 +192,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 6321A9B11B94EBA10053D2E7 /* Build configuration list for PBXProject "Flash Chat" */;
+			buildConfigurationList = 6321A9B11B94EBA10053D2E7 /* Build configuration list for PBXProject "Xchat" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -205,7 +205,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6321A9B51B94EBA10053D2E7 /* Flash Chat */,
+				6321A9B51B94EBA10053D2E7 /* Xchat */,
 			);
 		};
 /* End PBXProject section */
@@ -449,7 +449,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6321A9B11B94EBA10053D2E7 /* Build configuration list for PBXProject "Flash Chat" */ = {
+		6321A9B11B94EBA10053D2E7 /* Build configuration list for PBXProject "Xchat" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6321A9D31B94EBA10053D2E7 /* Debug */,
@@ -458,7 +458,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6321A9D51B94EBA10053D2E7 /* Build configuration list for PBXNativeTarget "Flash Chat" */ = {
+		6321A9D51B94EBA10053D2E7 /* Build configuration list for PBXNativeTarget "Xchat" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6321A9D61B94EBA10053D2E7 /* Debug */,

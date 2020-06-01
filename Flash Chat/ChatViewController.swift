@@ -61,7 +61,7 @@ class ChatViewController: UIViewController , UITableViewDelegate , UITableViewDa
         
         cell.messageBody.text = messageArray[indexPath.row].messageBody
         cell.senderUsername.text = messageArray[indexPath.row].sender
-        cell.avatarImageView.image = UIImage(named: "egg")
+        cell.avatarImageView.image = UIImage(named: "avatar")
         /*let messageArray = ["First Message","Second Message","Ok Third one"]
         cell.messageBody.text = messageArray[indexPath.row]*/
         
