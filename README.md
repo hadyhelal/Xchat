@@ -3,7 +3,7 @@
 
 ## intro
 
-Simple Chat application a clone of whatsApp 
+Simple chat application a clone of whatsApp 
 
 
 ## What i used in Xchat
